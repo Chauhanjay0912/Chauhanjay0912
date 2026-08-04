@@ -16,7 +16,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Chauhanjay0912&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Chauhanjay0912&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chauhanjay0912&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chauhanjay0912&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+
+<!-- 3D Isometric Contribution Graph -->
+<img src="https://raw.githubusercontent.com/Chauhanjay0912/Chauhanjay0912/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Chauhanjay0912&icon=0&color=0)](https://visitcount.itsvg.in)
